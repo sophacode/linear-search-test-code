@@ -12,7 +12,7 @@ def linearsearch(x):
   if found:
     print (searchItem, "was found at position", index)
   else:
-    print ("Item not found")
+    print ("Item not found.")
 
 #test data
 nuumbers = ["1","2","3","4","5","6","7","8"]
